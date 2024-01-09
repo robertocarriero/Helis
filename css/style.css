@@ -1,0 +1,114 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(76, 74, 74);
+}
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+.video{
+    margin-left: 30px;
+    margin-top: -10px;
+    
+}
+.subtitulo{
+    margin-right: 120px;
+    margin-top: 90px;
+    float: inline-end;
+    font-size: 20px;
+    color: beige;
+    font-style: italic;
+}
+.foto1{
+    margin-left: 30px;
+    margin-top: 40px;
+    float: left;
+
+}
+.foto2{
+    margin-right: 30px;
+    margin-top: 40px;
+    float: right;
+}
+p{
+    width: 45%;
+    margin-top: 80px;
+    float: inline-end;
+    margin-right: 30px;
+    border: 9px;
+    box-sizing: border-box;
+    border-color: rgb(42, 165, 42);
+    border-style: groove;
+    border-radius: 9px;
+    background-color: black;
+    color: white;
+    padding: 9px;
+}
+.btn{
+    margin-left: 90px;
+    margin-top: 90px;
+    border-style: ridge;
+    width: 120px;
+    height: 30px;
+    cursor: pointer; /* Cambia el cursor a una mano al pasar sobre el botón */
+    transition: background-color 0.3s ease; 
+    border-style: ridge;
+    border: 1px solid #2e518b; 
+    padding: 2px; 
+    background-color:  #050505; 
+    color: #ffffff; 
+    text-decoration: none; 
+    border-radius: 20px; 
+    box-shadow: inset 3px 3px 3px rgba(255,255,255,.7), inset -2px -2px 3px rgba(0,0,0,.1), 2px 2px 10px rgba(0,0,0,.1); 
+  }
+  button:hover {
+    background-color: rgb(142, 142, 245);
+    color: black;
+  }
+  .btnUno{
+    margin-left: 90px;
+    margin-top: 20px;
+    border-style: ridge;
+    width: 120px;
+    height: 30px;
+    cursor: pointer; /* Cambia el cursor a una mano al pasar sobre el botón */
+    transition: background-color 0.3s ease; 
+    border-style: ridge;
+    border: 1px solid #2e518b; 
+    padding: 2px; 
+    background-color:  #050505; 
+    color: #ffffff; 
+    text-decoration: none; 
+    border-radius: 20px; 
+    box-shadow: inset 3px 3px 3px rgba(255,255,255,.7), inset -2px -2px 3px rgba(0,0,0,.1), 2px 2px 10px rgba(0,0,0,.1); 
+  }
+  button:hover {
+    background-color: rgb(142, 142, 245);
+    color: black;
+  } 
+  .btnDos{
+    margin-left: 90px;
+    margin-top: 20px;
+    border-style: ridge;
+    width: 120px;
+    height: 30px;
+    cursor: pointer; /* Cambia el cursor a una mano al pasar sobre el botón */
+    transition: background-color 0.3s ease; 
+    border-style: ridge;
+    border: 1px solid #2e518b; 
+    padding: 2px; 
+    background-color:  #050505; 
+    color: #ffffff; 
+    text-decoration: none; 
+    border-radius: 20px; 
+    box-shadow: inset 3px 3px 3px rgba(255,255,255,.7), inset -2px -2px 3px rgba(0,0,0,.1), 2px 2px 10px rgba(0,0,0,.1); 
+  }
+  button:hover {
+    background-color: rgb(142, 142, 245);
+    color: black;
+  } 
